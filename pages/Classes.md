@@ -426,7 +426,7 @@ Here, when we say `let greeter: Greeter`, we're using `Greeter` as the type of i
 This is almost second nature to programmers from other object-oriented languages.
 
 We're also creating another value that we call the *constructor function*.
-This is the function that is called when we `new` up instances of the class.
+This is the function that is called when we construct instances of the class using `new`.
 To see what this looks like in practice, let's take a look at the JavaScript created by the above example:
 
 ```ts
